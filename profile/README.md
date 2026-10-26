@@ -1,3 +1,5 @@
+![Build in Public Club](./banner.webp)
+
 # biip.club
 
 O biip é um grupo de founders no WhatsApp: mais de 1000 pessoas construindo empresa, com a Terça de SaaS toda terça às 19h e encontros extras.
